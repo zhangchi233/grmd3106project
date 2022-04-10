@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "test_points",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "AID_ID_Number": "TDS91024", "District": "Tuen Mun", "Road_EN": "Tuen Mun Road near The Aegean - Eastbound ", "Road_TC": "屯門公路近愛琴灣 - 東行 ", "Road_SC": "屯门公路近爱琴湾 - 东行 ", "Easting": "818417", "Northing": "825347", "Latitude": "22.36719645", "Longitude": "114.0035542", "Direction": "East", "Rotation": "90", "sequence": 1 }, "geometry": { "type": "Point", "coordinates": [ 114.0035542, 22.36719645 ] } },
+{ "type": "Feature", "properties": { "AID_ID_Number": "TDS/LFR/10001", "District": "Tuen Mun", "Road_EN": "Lung Fu Road near Wong Chu Road - Eastbound", "Road_TC": "龍富路近皇珠路 - 東行", "Road_SC": "龙富路近皇珠路 - 东行", "Easting": "814863", "Northing": "827541", "Latitude": "22.38696869", "Longitude": "113.9690182", "Direction": "South East", "Rotation": "130", "sequence": 6 }, "geometry": { "type": "Point", "coordinates": [ 113.9690182, 22.38696869 ] } },
+{ "type": "Feature", "properties": { "AID_ID_Number": "TDS/TKR/20009", "District": "Tai Po", "Road_EN": "Ting Kok Road near On Po Road - Westbound ", "Road_TC": "汀角路近安埔路 - 西行 ", "Road_SC": "汀角路近安埔路 - 西行 ", "Easting": "836008", "Northing": "835136", "Latitude": "22.45568867", "Longitude": "114.1743484", "Direction": "West", "Rotation": "280", "sequence": 3 }, "geometry": { "type": "Point", "coordinates": [ 114.1743484, 22.45568867 ] } },
+{ "type": "Feature", "properties": { "AID_ID_Number": "TDS/TCKR/10003", "District": "Sha Tin", "Road_EN": "Tai Chung Kiu Road near Kong Pui Street Rest Garden - Northbound ", "Road_TC": "大涌橋路近崗背街休憩花園 - 北行 ", "Road_SC": "大涌桥路近岗背街休憩花园 - 北行 ", "Easting": "838238", "Northing": "827049", "Latitude": "22.38265803", "Longitude": "114.1960038", "Direction": "North East", "Rotation": "45", "sequence": 2 }, "geometry": { "type": "Point", "coordinates": [ 114.1960038, 22.38265803 ] } },
+{ "type": "Feature", "properties": { "AID_ID_Number": "TDS/TPR/20008", "District": "Tai Po", "Road_EN": "Tai Po Road - Tai Po Kau near Dragon Fountain - Northbound ", "Road_TC": "大埔公路大埔滘段近觀海崇庭 - 北行 ", "Road_SC": "大埔公路大埔滘段近观海崇庭 - 北行 ", "Easting": "838274", "Northing": "831542", "Latitude": "22.42323203", "Longitude": "114.196359", "Direction": "North", "Rotation": "350", "sequence": 4 }, "geometry": { "type": "Point", "coordinates": [ 114.196359, 22.42323203 ] } }
+]
+}
